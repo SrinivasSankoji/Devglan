@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-cloud-config-server
+  profiles:
+    active:
+    - local
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: spring-cloud-config-server
+    
+
+
+
+    
