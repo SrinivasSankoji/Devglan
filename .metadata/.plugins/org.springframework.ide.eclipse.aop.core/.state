@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="product-service"/>
-<aop-project name="gateway-first-service"/>
+<aop-project name="hystrix-service"/>
+<aop-project name="spring-cloud-config-client"/>
+<aop-project name="spring-cloud-config"/>
 <aop-project name="hystrix-dashboard"/>
 <aop-project name="customer-service"/>
-<aop-project name="gateway-service"/>
+<aop-project name="hystrix-client"/>
 <aop-project name="discovery-service"/>
-<aop-project name="gateway-second-service"/>
 <aop-project name="first-service"/>
 </aop-reference-model>
