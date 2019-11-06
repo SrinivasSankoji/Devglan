@@ -2,12 +2,19 @@
 <aop-reference-model>
 <aop-project name="product-service"/>
 <aop-project name="hystrix-service"/>
-<aop-project name="spring-cloud-config-client"/>
-<aop-project name="spring-cloud-config"/>
 <aop-project name="hystrix-dashboard"/>
 <aop-project name="customer-service"/>
 <aop-project name="hystrix-client"/>
-<aop-project name="discovery-service"/>
+<aop-project name="integrated-ops"/>
 <aop-project name="first-service"/>
 <aop-project name="logicbig-spring-cloud-config-server"/>
+<aop-project name="techprimers-gateway"/>
+<aop-project name="techprimers-jwt"/>
+<aop-project name="spring-cloud-config-client"/>
+<aop-project name="spring-cloud-config"/>
+<aop-project name="mervin-jwt"/>
+<aop-project name="discovery-service"/>
+<aop-project name="logicbig-spring-cloud-config-clinet"/>
+<aop-project name="devglan-gateway"/>
+<aop-project name="javabrains-jwt"/>
 </aop-reference-model>

@@ -1,10 +1,13 @@
+#server:
+#  port: ${PORT:0}
+  
 server:
-  port: ${PORT:0}
+  port: 9032
   
 spring:
   application:
     name: hystrix-dashboard
   
-eureka:
-  instance:
-    instance-id: ${spring.application.name}:${spring.application.instance_id}:${random.value}
+#eureka:
+#  instance:
+#    instance-id: ${spring.application.name}:${spring.application.instance_id}:${random.value}

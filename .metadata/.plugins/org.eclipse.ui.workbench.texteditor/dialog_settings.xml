@@ -6,7 +6,16 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="authenticationManagerBean"/>
 		<list key="findhistory">
+			<item value="authenticationManagerBean"/>
+			<item value="isTokenExpired"/>
+			<item value="extractClaim"/>
+			<item value="userDetailsService"/>
+			<item value="userDetailsServiceImpl"/>
+			<item value="jwtValidationFilter"/>
+			<item value="authResult"/>
+			<item value="Authentication"/>
 		</list>
 		<list key="replacehistory">
 		</list>

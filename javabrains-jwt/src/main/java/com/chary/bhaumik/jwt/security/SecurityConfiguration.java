@@ -2,7 +2,6 @@ package com.chary.bhaumik.jwt.security;
 
 import javax.sql.DataSource;
 
-import org.aspectj.weaver.ast.And;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -50,7 +49,9 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter
 		httpSecurity.csrf().disable().
 		authorizeRequests()
 		.antMatchers("/authenticate").permitAll().anyRequest().authenticated()
-		.and().sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+		.and()
+		.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+		
 		httpSecurity.addFilterBefore(jwtRequestFilter,UsernamePasswordAuthenticationFilter.class);
 	}
 	
