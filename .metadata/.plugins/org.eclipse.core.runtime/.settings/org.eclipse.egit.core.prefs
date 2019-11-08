@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\MicroService_Workspace\\Devglan\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=D\:\\MicroService_Workspace\\Devglan\\.git;D\:\\MicroService_Workspace\\spring-boot-jwt\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;D\:\\MicroService_Workspace\\spring-boot-jwt\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
