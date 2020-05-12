@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "test.greeting",
+    "type": "java.lang.String",
+    "description": "A description for 'test.greeting'"
+  },
+  {
+    "name": "test.dbdetails.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'test.dbdetails.driver'"
+  },
+  {
+    "name": "test.dbdetails.username",
+    "type": "java.lang.String",
+    "description": "A description for 'test.dbdetails.username'"
+  },
+  {
+    "name": "test.dbdetails.password",
+    "type": "java.lang.String",
+    "description": "A description for 'test.dbdetails.password'"
+  },
+  {
+    "name": "test.names",
+    "type": "java.lang.String",
+    "description": "A description for 'test.names'"
+  },
+  {
+    "name": "test.description",
+    "type": "java.lang.String",
+    "description": "A description for 'test.description'"
+  },
+  {
+    "name": "test.name",
+    "type": "java.lang.String",
+    "description": "A description for 'test.name'"
+  }
+]}
