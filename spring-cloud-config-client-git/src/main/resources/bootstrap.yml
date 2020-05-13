@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-cloud-config-client
+  profiles:
+    active:
+    - local
+  cloud:
+    config:
+      uri:
+      - http://localhost:3008
+      
+    
+
+
+
+    

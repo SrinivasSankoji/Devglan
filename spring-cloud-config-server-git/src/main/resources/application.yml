@@ -8,11 +8,11 @@ spring:
           uri: https://github.com/only2dhir/config-repo.git
     
 server:
-  port: ${PORT:0}
+  port: 3008
   
-eureka:
-  instance:
-    instance-id: ${spring.application.name}:${spring.application.instance_id}:${random.value}
+#eureka:
+  #instance:
+    #instance-id: ${spring.application.name}:${spring.application.instance_id}:${random.value}
     
 
     
