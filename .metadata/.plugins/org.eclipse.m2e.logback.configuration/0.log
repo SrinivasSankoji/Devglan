@@ -10768,3 +10768,302 @@ Caused by: java.lang.Exception: Resource '/devglan-gateway/pom.xml' does not exi
 2020-05-12 17:35:57,377 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-05-12 17:35:57,378 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-12 17:35:57,379 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\logicbig-spring-cloud-config-clinet\src\test\resources
+2020-05-13 14:59:09,168 [Worker-291: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config-client:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config-client\pom.xml.
+2020-05-13 14:59:19,225 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:19,226 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:59:19,254 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:59:19,257 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:19,257 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client\src\test\resources
+2020-05-13 14:59:19,405 [Worker-293: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config\pom.xml.
+2020-05-13 14:59:20,416 [Worker-293: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config-client:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config-client\pom.xml.
+2020-05-13 14:59:23,114 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:23,114 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 14:59:23,127 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:59:23,128 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:23,128 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config\src\test\resources
+2020-05-13 14:59:23,756 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:23,757 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:59:23,758 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 14:59:23,759 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 14:59:23,759 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client\src\test\resources
+2020-05-13 15:07:19,162 [Worker-302: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\pom.xml.
+2020-05-13 15:07:22,064 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:22,064 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:07:22,069 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:07:22,071 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:22,071 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 15:07:23,764 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:23,764 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:07:23,766 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:07:23,768 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:23,768 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 15:07:44,369 [Worker-304: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config-client:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\pom.xml.
+2020-05-13 15:07:45,127 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:45,127 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:07:45,128 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:07:45,137 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:45,137 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:07:47,242 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:47,243 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:07:47,245 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:07:47,248 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:07:47,248 [Worker-307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:08:06,680 [Worker-305: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config-client-git:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\pom.xml.
+2020-05-13 15:08:07,744 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:08:07,745 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:08:07,745 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:08:07,746 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:08:07,746 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:08:07,746 [Worker-305: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-cloud-config-client-git
+2020-05-13 15:08:07,747 [Worker-305: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-cloud-config-client-git
+2020-05-13 15:08:07,749 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:08:16,292 [Worker-303: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:discovery-service:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\discovery-service\pom.xml.
+2020-05-13 15:08:18,632 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:08:18,632 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:08:18,632 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:08:18,634 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:08:18,634 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\discovery-service\src\test\resources
+2020-05-13 15:17:40,428 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:17:40,428 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:17:40,431 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:17:40,433 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:17:40,433 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:18:28,122 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:18:28,122 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:18:28,124 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:18:28,126 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:18:28,126 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:21:56,486 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:21:56,486 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:21:56,487 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:21:56,490 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:21:56,490 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:23:17,090 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:23:17,091 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:23:17,093 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:23:17,095 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:23:17,095 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:23:30,351 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:23:30,352 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:23:30,353 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:23:30,355 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:23:30,355 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:24:29,976 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:24:29,977 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:24:29,979 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:24:29,980 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:24:29,980 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:25:26,902 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:25:26,902 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:25:26,904 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:25:26,906 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:25:26,906 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:26:34,841 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:26:34,841 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:26:34,842 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:26:34,845 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:26:34,845 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:27:16,355 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:27:16,355 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:27:16,357 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:27:16,359 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:27:16,359 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:27:35,997 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:27:35,997 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:27:35,999 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:27:36,000 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:27:36,000 [Worker-302: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:27:42,796 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:27:42,796 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:27:42,798 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:27:42,799 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:27:42,799 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:28:02,694 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:28:02,695 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:28:02,696 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:28:02,697 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:28:02,698 [Worker-313: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:32:10,906 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:32:10,906 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:32:10,908 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:32:10,909 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:32:10,909 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:32:34,480 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:32:34,480 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:32:34,482 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:32:34,484 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:32:34,484 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:33:48,571 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:33:48,572 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:33:48,575 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:33:48,578 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:33:48,578 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:44:02,237 [Worker-319: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:logicbig-spring-cloud-config-clinet:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\logicbig-spring-cloud-config-clinet\pom.xml.
+2020-05-13 15:44:03,371 [Worker-318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:44:03,371 [Worker-318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:44:03,378 [Worker-318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:44:03,380 [Worker-318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:44:03,381 [Worker-318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\logicbig-spring-cloud-config-clinet\src\test\resources
+2020-05-13 15:44:05,036 [Worker-318: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:logicbig-spring-cloud-config-server:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\logicbig-spring-cloud-config-server\pom.xml.
+2020-05-13 15:44:06,030 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:44:06,030 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:44:06,032 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:44:06,033 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:44:06,033 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\logicbig-spring-cloud-config-server\src\test\resources
+2020-05-13 15:47:55,244 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:47:55,244 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:47:55,245 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:47:55,254 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:47:55,254 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 15:57:59,835 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:57:59,835 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:57:59,838 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:57:59,841 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:57:59,841 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 15:59:01,100 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:59:01,101 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 15:59:01,105 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 15:59:01,108 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 15:59:01,108 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:00:01,769 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:00:01,769 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:00:01,771 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:00:01,772 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:00:01,773 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:00:19,996 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:00:19,997 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:00:19,999 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:00:20,000 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:00:20,000 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:01:49,542 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:01:49,542 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:01:49,544 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:01:49,546 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:01:49,546 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:02:48,042 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:02:48,043 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:02:48,045 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:02:48,048 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:02:48,048 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 16:02:55,343 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:02:55,343 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:02:55,345 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:02:55,347 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:02:55,347 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 16:04:20,831 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:04:20,832 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:04:20,832 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:04:20,838 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:04:20,838 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 16:16:38,139 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:16:38,140 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:16:38,143 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:16:38,145 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:16:38,146 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:17:07,992 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:17:07,993 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:17:07,995 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:17:07,998 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:17:07,998 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 16:17:59,930 [Worker-327: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\pom.xml.
+2020-05-13 16:18:00,957 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:00,958 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:00,958 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:00,959 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:00,959 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:18:00,961 [Worker-327: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-cloud-config-server-git
+2020-05-13 16:18:00,961 [Worker-327: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-cloud-config-server-git
+2020-05-13 16:18:00,964 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:03,364 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:03,364 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:03,411 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:03,414 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:03,414 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:18:19,230 [Worker-327: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-cloud-config-client-git:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\pom.xml.
+2020-05-13 16:18:20,114 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:20,114 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:20,114 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:20,116 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:20,116 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 16:18:20,116 [Worker-327: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-cloud-config-client-git
+2020-05-13 16:18:20,116 [Worker-327: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-cloud-config-client-git
+2020-05-13 16:18:20,119 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:22,411 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:22,411 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:22,414 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:22,420 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:22,420 [Worker-324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 16:18:43,702 [Worker-305: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for discovery-service
+2020-05-13 16:18:43,717 [Worker-305: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for logicbig-spring-cloud-config-clinet
+2020-05-13 16:18:44,092 [Worker-305: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for logicbig-spring-cloud-config-server
+2020-05-13 16:18:44,102 [Worker-305: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-cloud-config-client-git
+2020-05-13 16:18:44,537 [Worker-305: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-cloud-config-server-git
+2020-05-13 16:18:45,649 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:45,649 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:45,651 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:45,654 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:45,654 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\discovery-service\src\test\resources
+2020-05-13 16:18:45,654 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of discovery-service
+2020-05-13 16:18:45,654 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for discovery-service
+2020-05-13 16:18:45,659 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:46,480 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:46,480 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:46,482 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:46,488 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:46,488 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\logicbig-spring-cloud-config-clinet\src\test\resources
+2020-05-13 16:18:46,488 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of logicbig-spring-cloud-config-clinet
+2020-05-13 16:18:46,488 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for logicbig-spring-cloud-config-clinet
+2020-05-13 16:18:46,492 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:47,331 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:47,332 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:47,357 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:47,359 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:47,359 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\logicbig-spring-cloud-config-server\src\test\resources
+2020-05-13 16:18:47,360 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of logicbig-spring-cloud-config-server
+2020-05-13 16:18:47,360 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for logicbig-spring-cloud-config-server
+2020-05-13 16:18:47,364 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:47,931 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:47,931 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:47,936 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:47,942 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:47,942 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-13 16:18:47,943 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-cloud-config-client-git
+2020-05-13 16:18:47,943 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-cloud-config-client-git
+2020-05-13 16:18:47,947 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:48,726 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:48,726 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:18:48,729 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:18:48,731 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:18:48,731 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-server-git\src\test\resources
+2020-05-13 16:18:48,731 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-cloud-config-server-git
+2020-05-13 16:18:48,731 [Worker-328: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-cloud-config-server-git
+2020-05-13 16:18:48,734 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:22:01,426 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:22:01,427 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-13 16:22:01,427 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-13 16:22:01,430 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-13 16:22:01,430 [Worker-326: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-cloud-config-client-git\src\test\resources
+2020-05-14 18:31:26,487 [Worker-552: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:spring-bbot-config:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\spring-boot-config-brains\pom.xml.
+2020-05-14 18:31:43,585 [Worker-547: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-14 18:31:43,586 [Worker-547: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-14 18:31:43,595 [Worker-547: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-14 18:31:43,597 [Worker-547: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-14 18:31:43,597 [Worker-547: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\spring-boot-config-brains\src\test\resources
+2020-05-17 20:03:49,784 [Worker-2902: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:movie-catalog-service:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\movie-catalog-service-brains\pom.xml.
+2020-05-17 20:04:26,780 [Worker-2902: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 20:04:26,780 [Worker-2902: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-17 20:04:26,789 [Worker-2902: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-17 20:04:26,791 [Worker-2902: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 20:04:26,791 [Worker-2902: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\movie-catalog-service-brains\src\test\resources
+2020-05-17 20:04:28,006 [Worker-3205: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:movie-info-service-brains:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\movie-info-service-brains\pom.xml.
+2020-05-17 20:04:29,829 [Worker-3205: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.chary.bhaumik:ratings-data-service:0.0.1-SNAPSHOT @ D:\MicroService_Workspace\MicroService\ratings-data-service-brains\pom.xml.
+2020-05-17 20:04:39,897 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 20:04:39,897 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-17 20:04:39,907 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-17 20:04:39,910 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 20:04:39,911 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\movie-info-service-brains\src\test\resources
+2020-05-17 20:04:41,404 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 20:04:41,405 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-17 20:04:41,408 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-17 20:04:41,410 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 20:04:41,410 [Worker-3291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MicroService_Workspace\MicroService\ratings-data-service-brains\src\test\resources

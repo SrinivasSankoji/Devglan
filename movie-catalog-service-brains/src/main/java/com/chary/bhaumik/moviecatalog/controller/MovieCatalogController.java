@@ -34,23 +34,23 @@ public class MovieCatalogController
 		/**List<Rating> ratings=Arrays.asList(new Rating("Two", 2),
 				new Rating("Three", 3));**/
 		
-		UserRating userRating=restTemplate.getForObject("http://localhost:6003/ratingsdata/users/"+userId, UserRating.class);
+		//UserRating userRating=restTemplate.getForObject("http://localhost:6003/ratingsdata/users/"+userId, UserRating.class);
 		
-		//UserRating userRating=restTemplate.getForObject("http://ratings-data-service/ratingsdata/users/"+userId, UserRating.class);
+		UserRating userRating=restTemplate.getForObject("http://ratings-data-service/ratingsdata/users/"+userId, UserRating.class);
 		
 		/**
 		 * Calling Movie Info Service
 		 */
 		
-		/**return userRating.getUserRatings().stream().map(rating -> {
-			Movie movie=restTemplate.getForObject("http://MOVIE-INFO-SERVICE/movieInfo/"+rating.getMovieId(), Movie.class);
-			return new CatalogItem(movie.getName(), "Nani", rating.getRating());
-			}).collect(Collectors.toList());**/
-		
 		return userRating.getUserRatings().stream().map(rating -> {
-			Movie movie=restTemplate.getForObject("http://localhost:6002/movieInfo/"+rating.getMovieId(), Movie.class);
+			Movie movie=restTemplate.getForObject("http://movie-info-service/movieInfo/"+rating.getMovieId(), Movie.class);
 			return new CatalogItem(movie.getName(), "Nani", rating.getRating());
 			}).collect(Collectors.toList());
+		
+		/**return userRating.getUserRatings().stream().map(rating -> {
+			Movie movie=restTemplate.getForObject("http://localhost:6002/movieInfo/"+rating.getMovieId(), Movie.class);
+			return new CatalogItem(movie.getName(), "Nani", rating.getRating());
+			}).collect(Collectors.toList());**/
 		
 		/**return ratings.stream().map(rating -> {
 		Movie movie=restTemplate.getForObject("http://localhost:6002/movieInfo/"+rating.getMovieId(), Movie.class);

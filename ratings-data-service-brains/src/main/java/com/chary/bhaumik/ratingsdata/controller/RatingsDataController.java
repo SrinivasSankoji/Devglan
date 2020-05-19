@@ -18,20 +18,28 @@ public class RatingsDataController
 	/**
 	 * http://localhost:6003/ratingsdata/srinivas
 	 */
-	/**@GetMapping("/{movieId}")
+	@GetMapping("/{movieId}")
 	public Rating getMovieInfo(@PathVariable("movieId") String movieId)
 	{
 		return new Rating("One", 9);
-	}**/
+	}
 	
+	/**
+	 * Method That Return List
+	 * Not Recommended
+	 */
 	@GetMapping("/{userId}")
 	public List<Rating> getRatingOne(@PathVariable("userId") String userId)
 	{
 		return Arrays.asList(new Rating("Two", 2), new Rating("Three", 3));
 	}
 	
+	/**
+	 * Method That Returns Object
+	 * Recommended
+	 */
 	@GetMapping("/users/{userId}")
-	public UserRating getRating(@PathVariable("userId") String userId)
+	public UserRating getUserRating(@PathVariable("userId") String userId)
 	{
 		UserRating userRating=new UserRating();
 		userRating.setUserRatings(Arrays.asList(new Rating("Two", 2), new Rating("Three", 3)));
