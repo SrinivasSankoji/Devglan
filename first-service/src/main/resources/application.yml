@@ -3,6 +3,6 @@ spring:
     name: first-service
     
 server:
-  port: 9301
+  port: 8093
 
 
