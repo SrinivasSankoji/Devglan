@@ -1,0 +1,17 @@
+server:
+  port: 8096
+  
+spring:
+  application:
+    name: cloudgateway-service
+  cloud:
+    gateway:
+      routes:
+      - id: employeeModule
+        uri: http://localhost:8094/
+        predicates:
+        - Path=/employee/**
+      - id: consumerModule
+        uri: http://localhost:8095/
+        predicates:
+        - Path=/consumer/**

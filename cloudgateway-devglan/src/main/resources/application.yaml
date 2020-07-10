@@ -1,0 +1,42 @@
+server:
+  port: 8096
+spring:
+  application:
+    name: cloudgateway-devglan
+  cloud:
+    gateway:
+      routes:
+      - id: first-service
+        uri: lb://FIRST-SERVICE
+        predicates:
+        - Path= /api/v1/first/**
+        filters:
+        - name : Hystrix
+          args:
+             name : hystrix
+             fallbackUri: forward:/fallback/first
+      - id: second-service
+        uri: lb://SECOND-SERVICE
+        predicates:
+        - Path= /api/v1/second/**
+        filters:
+        - name : Hystrix
+          args:
+             name : hystrix
+             fallbackUri: forward:/fallback/second
+       
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    register-with-eureka: false
+    fetch-registry: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
+        
+ 
+        
+ 
