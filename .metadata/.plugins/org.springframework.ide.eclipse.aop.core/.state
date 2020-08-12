@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="zipkinserver-first"/>
+<aop-project name="zipkinserver-four"/>
+<aop-project name="customer-service"/>
+<aop-project name="spring-boot-config-brains"/>
+<aop-project name="integrated-ops"/>
+<aop-project name="zuulgateway-devglan"/>
+<aop-project name="first-service"/>
+<aop-project name="movie-catalog-service-brains"/>
+<aop-project name="zuulgateway-student-service"/>
+<aop-project name="devglan-gateway"/>
+<aop-project name="logicbig-spring-cloud-config-clinet"/>
+<aop-project name="cloudgateway-devglan"/>
+<aop-project name="zuulgateway-howtodoinjava"/>
+<aop-project name="movie-info-service-brains"/>
+<aop-project name="zipkinserver-second"/>
 <aop-project name="product-service"/>
+<aop-project name="employee-service"/>
 <aop-project name="hystrix-service"/>
 <aop-project name="hystrix-dashboard"/>
-<aop-project name="customer-service"/>
+<aop-project name="payment-service"/>
+<aop-project name="cloudgateway-javainuse"/>
 <aop-project name="hystrix-client"/>
-<aop-project name="integrated-ops"/>
-<aop-project name="first-service"/>
 <aop-project name="logicbig-spring-cloud-config-server"/>
 <aop-project name="techprimers-gateway"/>
-<aop-project name="movie-catalog-service-brains"/>
+<aop-project name="swggaer-yaml"/>
+<aop-project name="second-service"/>
+<aop-project name="spring-cloud-config-client-git"/>
+<aop-project name="course-service"/>
 <aop-project name="ratings-data-service-brains"/>
+<aop-project name="zuulgateway-levelup"/>
 <aop-project name="discovery-service"/>
-<aop-project name="logicbig-spring-cloud-config-clinet"/>
-<aop-project name="devglan-gateway"/>
-<aop-project name="movie-info-service-brains"/>
+<aop-project name="zipkinserver-howtodoinjava"/>
+<aop-project name="consumer-service"/>
+<aop-project name="zipkinserver-third"/>
+<aop-project name="spring-cloud-config-server-git"/>
 </aop-reference-model>

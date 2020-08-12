@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\MicroService_Workspace\MicroService\product-service"/>
 			<item value="C:\Users\Bhaumik Chary\Downloads\jwt-security-example-master"/>
 		</list>
 		<list key="projectNameTemplate">

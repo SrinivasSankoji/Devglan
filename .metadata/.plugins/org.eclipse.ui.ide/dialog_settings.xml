@@ -143,6 +143,7 @@
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\JavaBasics_Workspace\JavaBasics\DateTest"/>
 			<item value="C:\Users\Bhaumik Chary\Downloads\jwt-security-example-master"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
