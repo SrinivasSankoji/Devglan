@@ -12,54 +12,61 @@ import org.springframework.web.bind.annotation.RestController;
 import com.chary.bhaumik.configuration.model.DbDetails;
 
 @RestController
-public class ConfigurationController 
-{
+public class ConfigurationController {
 	/**
-	 * Method One
+	 * Reading Value from the Properties File
 	 */
 	@Value("${test.greeting}")
 	private String greetingMesage;
-	
+
 	/**
-	 * Method Two
+	 * Assigning default Value to the Variable
 	 */
 	@Value("Welcome Bhaumik Chary")
 	private String message;
-	
+
 	/**
-	 * Method Three
+	 * Assigning default value to the Variable and If the Property does not exist.
 	 */
 	@Value("${message:Welcome Bhaumik Sankoji}")
 	private String defaultMessage;
-	
+
 	/**
-	 * Method Four
+	 * Reading the properties as List
 	 */
 	@Value("${test.names}")
 	private List<String> names;
-	
+
 	/**
-	 * Method Five
+	 * Reading the properties as Map
 	 */
 	@Value("#{${test.dbdetails}}")
-	private Map<String,String> dbdetails;
-	
+	private Map<String, String> dbdetails;
+
 	@Autowired
 	DbDetails dbDetailsModel;
-	
+
 	@Autowired
 	Environment env;
-	
-	@GetMapping("/greeting")
-	public Map<String,String> getGreeting()
-	{
+
+	@GetMapping("/dbDetails")
+	public Map<String, String> getGreeting() {
 		return dbdetails;
 	}
-	
+
 	@GetMapping("/envDetails")
-	public String[] getEnvDetails()
-	{
+	public String[] getEnvDetails() {
 		return env.getActiveProfiles();
+	}
+
+	@GetMapping("/messageDetails")
+	public String getMessageDetails() {
+		return message;
+	}
+
+	@GetMapping("/nameList")
+	public List<String> getNameList() {
+		return names;
 	}
 
 }
